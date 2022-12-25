@@ -1,0 +1,50 @@
+Q1. Why do we call Python as a general purpose and high-level programming language?
+Ans= 
+1) Python is easy to use: It is simple with an easily readable syntax and that makes it well-loved by both seasoned developers and experimental students. 
+The simplicity of Python betokens that developers can fixate on genuinely solving the Machine Learning quandary rather than spend all their time (and energy)
+understanding just the technical nuances of the language.
+
+2) Python runs on any platform: Not only is Python profoundly utilizer-amicable, but it also runs everywhere. 
+It runs on Windows, Unix, Linux, MacOS, and 21 different platforms including z/0s, Solaris, and VMS.
+
+3) Extensive support libraries: It provides large standard libraries that include the areas like string operations, Internet, web accommodation implements, 
+operating system interfaces, and protocols. 
+Most of the highly used programming tasks are already scripted into it that constrains the length of the codes to be inscribed in Python.
+
+4)Python is accessible: For newcomers and beginners, Python is incredibly easy to learn and use. 
+In fact, it’s one of the most accessible programming languages available. 
+Part of the reason is the simplified syntax with an emphasis on natural language.
+But it’s also because you can write Python code and execute it much faster. 
+Whatever the case, it’s a great language for beginners, so it’s where a lot of young developers are getting their start. 
+More importantly, experienced developers aren’t left by the wayside, as there’s plenty to do.
+
+5) Incredible Artificial Intelligence and Machine Learning support: Python is the number one choice when it comes to rapidly develop and demandable technologies 
+like Artificial Intelligence and Machine Learning. 
+Python libraries and packages are no less than a wonder as it withal contains code packages dedicated to programming premium high-level industry-concrete software with
+astute machine learning capabilities. 
+This is a massive integrated advantage for developers who are disposed to grab opportunities to power next-generation, automated systems utilizing deep learning 
+frameworks, and artificial intelligence. Moreover, due to its interoperability, both Python and non-Python developers (unfamiliar with Python ecosystem) should equally 
+leverage deep learning frameworks like TensorFlow and Keras library as suggested by IEEE study. 
+AI developers can rely on frameworks and libraries to build high-quality neural networks. 
+From the perspective of the futuristic engineering world, this is the incontrovertible reason why Python deserves to be regarded as a high-level programming language.
+
+
+Q2. Why is Python called a dynamically typed language?
+
+Ans=
+Python variable assignment is different from some of the popular languages like c, c++ and java.
+There is no declaration of a variable, just an assignment statement.
+
+Let us see why?
+When we declare a variable in C or alike languages, this sets aside an area of memory for holding values allowed by the data type of the variable.
+The memory allocated will be interpreted as the data type suggests. If it’s an integer variable the memory allocated will be read as an integer and so on. 
+When we assign or initialize it with some value, that value will get stored at that memory location. 
+At compile time, initial value or assigned value will be checked. So we cannot mix types. 
+Example: initializing a string value to an int variable is not allowed and the program will not compile.
+
+But Python is a dynamically typed language. It doesn’t know about the type of the variable until the code is run. So declaration is of no use. 
+What it does is, It stores that value at some memory location and then binds that variable name to that memory container. 
+And makes the contents of the container accessible through that variable name. So the data type does not matter. 
+As it will get to know the type of the value at run-time.
+
+
